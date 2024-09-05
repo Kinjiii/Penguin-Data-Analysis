@@ -5,6 +5,7 @@ Summary:
 The data folder contains two CSV files.
 
 penguins_lter.csv: Original combined data for 3 penguin species.
+
 penguins_size.csv: Simplified data from original penguin data sets. 
 
 Contains variables:
