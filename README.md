@@ -5,16 +5,24 @@ Summary:
 The data folder contains two CSV files.
 
 penguins_lter.csv: Original combined data for 3 penguin species.
+penguins_size.csv: Simplified data from original penguin data sets. 
 
-penguins_size.csv: Simplified data from original penguin data sets. Contains variables:
+Contains variables:
 
 species: penguin species (Chinstrap, Adélie, or Gentoo)
+
 culmen_length_mm: culmen length (mm)
+
 culmen_depth_mm: culmen depth (mm)
+
 flipper_length_mm: flipper length (mm)
+
 body_mass_g: body mass (g)
+
 island: island name (Dream, Torgersen, or Biscoe) in the Palmer Archipelago (Antarctica)
+
 sex: penguin sex
+
 
 What are culmen length & depth?
 The culmen is "the upper ridge of a bird's beak".
